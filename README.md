@@ -1,6 +1,6 @@
 # ICS 46: Homework 9
 
-Welcome to ICS 46 Homework 9! You will be implementing graphs.
+Welcome to ICS 46 Homework 9! You will be implementing a word ladder and Dijkstras algorithm.
 
 **Links**
 - [Instructions](https://sites.google.com/view/ics-46-data-structures/homework-9)
