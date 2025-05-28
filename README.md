@@ -10,7 +10,7 @@ Welcome to ICS 46 Homework 9! You will be implementing a word ladder and Dijkstr
 To install GTests on your hub instances and enable local test development, run:
 ```sudo apt-get install -y libgtest-dev libgmock-dev```
 
-## Submit to GradeScope
+## Submit to Gradescope
 
 Each homework submission will follow the same general pattern and should always have the
 following folder structure:
@@ -26,8 +26,8 @@ following folder structure:
     └── <CLASSNAME>.h
 ```
 
-All submissions are done on [GradeScope](https://www.gradescope.com/).
+All submissions are done on [Gradescope](https://www.gradescope.com/).
 
-On GradeScope, go into your Account Settings, and link your GitHub account to GradeScope.
+On Gradescope, go into your Account Settings, and link your GitHub account to Gradescope.
 
-Then on the course GradeScope, go to the **Homework 9** assignment, press the Submit button, choose the GitHub option, and select your project and branch.
+Then on the course Gradescope, go to the **Homework 9** assignment, press the Submit button, choose the GitHub option, and select your project and branch.
